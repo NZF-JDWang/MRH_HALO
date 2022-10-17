@@ -97,4 +97,5 @@ class cfgGlasses
 		ACE_DustPath = "\z\ace\addons\goggles\textures\fx\dust\%1.paa";
         MRH_hypoxiaRebreather = 1;
 	};
+    
 };
