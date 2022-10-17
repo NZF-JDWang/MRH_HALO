@@ -1,0 +1,4 @@
+//<'MRHHaloGear.pbo' properties via Mikero's dos tools, dll version 8.35>
+prefix=MRHHaloGear;
+//PboType=Arma Addon;
+//</properties>
